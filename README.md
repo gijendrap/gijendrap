@@ -23,4 +23,4 @@ Here are some technologies I enjoy working with:
 
 - https://www.linkedin.com/in/gijendra-p-759143229/
 
-Feel free to explore my repositories and connect with me! 😊
+Feel free to explore my repositories and connect with me! ❤

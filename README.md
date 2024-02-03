@@ -45,17 +45,17 @@ I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gijendra-p-759143229/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gijendra-p-759143229/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/)
-[![website](./img/instagram-dark.svg)](https://instagram.com/)
+[![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
 
 
 

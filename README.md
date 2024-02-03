@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Gijendra
 
-Passionate | Curious | Creative
+**`Passionate | Curious | Creative`**
 
 ## About Me
 

@@ -4,7 +4,7 @@
 
 ## About Me
 
-ⁱ'ᵐ ᵃ ʷᵉᵇʷᵉᵃᵛᵉʳ & ᶜʸᵇᵉʳˢᶜᵘˡᵖᵗᵒʳ ʷⁱᵗʰ ᵃ ˡᵒᵛᵉ ᶠᵒʳ ᶜᵒᵈᵉᶜʳᵃᶠᵗⁱⁿᵍ. ᵐʸ ʲᵒᵘʳⁿᵉʸ ⁱⁿ ᵗʰᵉ ᵗᵉᶜʰ ʷᵒʳˡᵈ ʰᵃˢ ᵇᵉᵉⁿ ᶠⁱˡˡᵉᵈ ʷⁱᵗʰ ᵉˣᶜⁱᵗⁱⁿᵍ ᶜʰᵃˡˡᵉⁿᵍᵉˢ ᵃⁿᵈ ᶜᵒⁿᵗⁱⁿᵘᵒᵘˢ ˡᵉᵃʳⁿⁱⁿᵍ. ⁱ'ᵐ ᵃˡʷᵃʸˢ ᵉˣᵖˡᵒʳⁱⁿᵍ ⁿᵉʷ ᵗᵉᶜʰⁿᵒˡᵒᵍⁱᵉˢ ᵃⁿᵈ ˢᵉᵉᵏⁱⁿᵍ ⁱⁿⁿᵒᵛᵃᵗⁱᵛᵉ ˢᵒˡᵘᵗⁱᵒⁿˢ.
+I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the tech world has been filled with exciting challenges and continuous learning. I'm always exploring new technologies and seeking innovative solutions.
 
 - 🔭 I’m currently working on React Three.js ...
 - 🌱 I’m currently learning Ethical Hacking ...

@@ -59,4 +59,6 @@ Here are some technologies I enjoy working with:
 <br />
 <br />
 
+---
+
 Feel free to explore my repositories and connect with me! ❤

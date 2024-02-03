@@ -42,8 +42,8 @@ I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the 
 
 ## Let's Connect
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://gijendrap.github.io/CODSOFT-level1-task1/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://gijendrap.github.io/CODSOFT-level1-task1/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/#gh-dark-mode-only)

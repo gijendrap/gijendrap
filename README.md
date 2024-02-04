@@ -65,8 +65,7 @@ I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the 
 Feel free to explore my repositories and connect with me! ❤
 
 
-<h1 align="center">Hi 👋, I'm gijendrap</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gijendrap&label=Profile%20views&color=0e75b6&style=flat" alt="gijendrap" /> </p>
 

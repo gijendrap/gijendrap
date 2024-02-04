@@ -54,21 +54,15 @@ I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the 
 
 ---
 
-Feel free to explore my repositories and connect with me! ❤
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gijendrap&label=Profile%20views&color=0e75b6&style=flat" alt="gijendrap" /> </p>
-
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gijendrap&show_icons=true&locale=en&layout=compact" alt="gijendrap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gijendrap&show_icons=true&locale=en" alt="gijendrap" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gijendrap&" alt="gijendrap" /></p>
+
+Feel free to explore my repositories and connect with me! ❤
+
 

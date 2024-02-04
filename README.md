@@ -42,25 +42,10 @@ I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the 
 
 ## Let's Connect
 
-&nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://gijendrap.github.io/CODSOFT-level1-task1/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://gijendrap.github.io/CODSOFT-level1-task1/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gijendra-p-759143229/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gijendra-p-759143229/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 <p align="left">
 <a href="https://twitter.com/https://github.com/gijendrap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://github.com/gijendrap" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://github.com/gijendrap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/gijendrap" height="30" width="40" /></a>
 <a href="https://fb.com/https://github.com/gijendrap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://github.com/gijendrap" height="30" width="40" /></a>
 <a href="https://instagram.com/https://github.com/gijendrap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://github.com/gijendrap" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://github.com/gijendrap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://github.com/gijendrap" height="30" width="40" /></a>

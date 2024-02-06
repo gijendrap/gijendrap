@@ -12,7 +12,7 @@ I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the 
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: gijendra.gj@gmail.com.
 
-## Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -63,6 +63,6 @@ I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gijendrap&" alt="gijendrap" /></p>
 
-Feel free to explore my repositories and connect with me! ❤
+## Feel free to explore my repositories and connect with me! ❤
 
 

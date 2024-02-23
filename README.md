@@ -62,7 +62,6 @@ I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gijendrap&" alt="gijendrap" /></p>
 
-<p>hiii</p>
 
 
 ### Feel free to explore my repositories and connect with me! ❤

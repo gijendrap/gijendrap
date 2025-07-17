@@ -9,7 +9,6 @@ I'm a WebWeaver & CyberSculptor with a love for CodeCrafting. My journey in the 
 - 🔭 I’m currently working on React Three.js.
 - 🌱 Learning Ethical Hacking.
 - 👀 I’m interested in collaboration.
-- 💞️ I’m looking to collaborate.
 - 📫 Send a message: gijendra.gj@gmail.com.
 
 ## Languages and Tools

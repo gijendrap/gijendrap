@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,50:0d2244,100:1a4a8a&height=200&section=header&text=GIJENDRA&fontSize=56&fontColor=e8f4ff&fontAlignY=38&desc=dev+·+ai+researcher+·+creative+coder&descAlignY=58&descSize=14&fontFamily=Orbitron" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,50:0d2244,100:1a4a8a&height=200&section=header&text=GIJENDRA&fontSize=56&fontColor=e8f4ff&fontAlignY=38&desc=frontend+dev+·+ai+researcher+·+creative+coder&descAlignY=58&descSize=14&fontFamily=Orbitron" />
 
 </div>
 
@@ -92,11 +92,22 @@ status          : ONLINE ✦
 
 [![Gmail](https://img.shields.io/badge/──_SIGNAL-gijendra.gj@gmail.com-4a9eff?style=flat-square&labelColor=080b12&logo=gmail&logoColor=4a9eff)](mailto:gijendra.gj@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&labelColor=0d1f3c&logo=linkedin&logoColor=4a9eff)](https://linkedin.com/in/gijendra)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-UPLINK-4a9eff?style=for-the-badge&logo=linkedin&logoColor=4a9eff&labelColor=0a1628&color=0a1628)](https://linkedin.com/in/gijendra)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter%2FX-FOLLOW-1DA1F2?style=for-the-badge&labelColor=080b12&logo=x&logoColor=white)](https://twitter.com/gijendra)
+[![Twitter](https://img.shields.io/badge/◈_TWITTER%2FX-BROADCAST-a78bfa?style=for-the-badge&logo=x&logoColor=a78bfa&labelColor=0d0a1f&color=0d0a1f)](https://twitter.com/gijendra)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-VISIT-39d98a?style=for-the-badge&labelColor=0a2018&logo=vercel&logoColor=39d98a)](https://gijendra.dev)
+[![Dev.to](https://img.shields.io/badge/◈_DEV.TO-TRANSMIT-6ee7b7?style=for-the-badge&logo=devdotto&logoColor=6ee7b7&labelColor=001a12&color=001a12)](https://dev.to/gijendra)
+
+<br/>
+
+```
+  ╔─────────────────────────────────────────╗
+  │  ◉  ALL CHANNELS OPEN                   │
+  │  ◈  LATENCY : MINIMAL                   │
+  │  ◈  ENCRYPTION : END-TO-END             │
+  │  ◉  AWAITING YOUR SIGNAL...  █          │
+  ╚─────────────────────────────────────────╝
+```
 
 </div>
 

@@ -1,187 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,40:020818,100:0a1628&height=220&text=◈%20GIJENDRA%20◈&fontSize=52&fontColor=00d4ff&fontAlignY=45&desc=◦%20FRONTEND%20DEV%20%20·%20%20AI%20RESEARCHER%20%20·%20%20CREATIVE%20CODER%20◦&descSize=13&descAlignY=68&animation=blinking&stroke=00d4ff&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,50:0d2244,100:1a4a8a&height=200&section=header&text=GIJENDRA&fontSize=56&fontColor=e8f4ff&fontAlignY=38&desc=frontend+dev+·+ai+researcher+·+creative+coder&descAlignY=58&descSize=14&fontFamily=Orbitron" />
 
 </div>
-
-<br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=15&duration=2800&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=28&lines=%5BSYS%5D+Initializing+profile+sequence...;%5BDEV%5D+React+%C3%97+Three.js+%E2%80%94+3D+web+interfaces+active;%5BAI%5D++Researching+neural+architectures+%26+LLMs;%5BNET%5D+Collaboration+protocols%3A+OPEN;%5BSYS%5D+All+systems+nominal.+Welcome.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=800&color=4A9EFF&center=true&vCenter=true&width=580&lines=%3E+building+3D+web+experiences+with+React+%2B+Three.js_;&lines=%3E+researching+neural+architectures+%26+deep+learning_;&lines=%3E+open+to+collaborations+%26+cool+ideas_;&lines=%3E+always+learning%2C+always+building_)](https://git.io/typing-svg)
 
 </div>
 
-<br>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│    ██████╗  ██╗     ███████╗███████╗███╗  ██╗██████╗  █████╗    │
-│   ██╔════╝  ██║     ██╔════╝██╔════╝████╗ ██║██╔══██╗██╔══██╗   │
-│   ██║  ███╗ ██║     █████╗  █████╗  ██╔██╗██║██║  ██║███████║   │
-│   ██║   ██║ ██║     ██╔══╝  ██╔══╝  ██║╚████║██║  ██║██╔══██║   │
-│   ╚██████╔╝ ███████╗███████╗███████╗██║ ╚███║██████╔╝██║  ██║   │
-│    ╚═════╝  ╚══════╝╚══════╝╚══════╝╚═╝  ╚══╝╚═════╝ ╚═╝  ╚═╝  │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-![STATUS](https://img.shields.io/badge/◉%20STATUS-ONLINE-00d4ff?style=flat-square&labelColor=020818&color=020818)
-![BUILD](https://img.shields.io/badge/◈%20BUILD-THREE.JS-00d4ff?style=flat-square&labelColor=020818&color=020818)
-![RESEARCH](https://img.shields.io/badge/◈%20AI__RESEARCH-ACTIVE-a855f7?style=flat-square&labelColor=0d0520&color=0d0520)
-![COLLAB](https://img.shields.io/badge/◈%20COLLAB-OPEN-39ff14?style=flat-square&labelColor=001a00&color=001a00)
-
-</div>
-
-<br>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
+<br/>
 
 ```yaml
-╔══════════════════════════════════════════════════════════════════╗
-║  ░░  PROFILE_DATA.yml  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  entity            : "Gijendra"                                  ║
-║  archetype         : [ "Frontend Dev", "AI Researcher" ]         ║
-║  location          : Earth.IN  // subspace coords: classified    ║
-║                                                                  ║
-║  currently_building: "React × Three.js — 3D web interfaces"      ║
-║  researching       : "deep learning · LLMs · neural nets"        ║
-║  seeking           : [ collaborations, open_source, ideas ]      ║
-║                                                                  ║
-║  signal            : "gijendra.gj@gmail.com"                     ║
-║  uptime            : ████████████████████ 99.9%                  ║
-║  curiosity_level   : ∞  // stack overflow: intentional           ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+# ── PROFILE.yml ────────────────────────────────────────────────
+entity          : "Gijendra"
+archetype       : "Soft Dev + AI Researcher"
+currently_building : "immersive 3D web — React × Three.js"
+researching     : "deep learning · neural architectures · LLMs"
+seeking         : [ collaborations, open-source, wild ideas ]
+signal          : "gijendra.gj@gmail.com"
+status          : ONLINE ✦
+# ───────────────────────────────────────────────────────────────
 ```
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-### ◈ `STACK // LOADED_MODULES`
-
-<br>
+<br/>
 
 <div align="center">
 
-**`◦ FRONTEND ◦`**
-
-<img src="https://skillicons.dev/icons?i=react,threejs,ts,nextjs,tailwind,html,css,js&theme=dark&perline=8" />
-
-**`◦ AI · RESEARCH ◦`**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark&perline=8" />
-
-**`◦ TOOLS · SYSTEMS ◦`**
-
-<img src="https://skillicons.dev/icons?i=git,linux,figma,vscode,github,vercel&theme=dark&perline=8" />
+![REACT THREEJS](https://img.shields.io/badge/▸_REACT_THREE.JS-ACTIVE-4a9eff?style=flat-square&labelColor=080b12&color=0d2244&logoColor=4a9eff)
+&nbsp;
+![AI ML](https://img.shields.io/badge/▸_AI_/_ML-LEARNING-a78bfa?style=flat-square&labelColor=080b12&color=150d2e)
+&nbsp;
+![COLLAB](https://img.shields.io/badge/▸_COLLAB-OPEN-39d98a?style=flat-square&labelColor=080b12&color=0a2018)
 
 </div>
 
-<br>
-
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-### ◈ `METRICS // SYSTEM_DIAGNOSTICS`
-
-<br>
+### `// STACK.MODULES`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gijendra&show_icons=true&hide_border=true&bg_color=020818&title_color=00d4ff&icon_color=a855f7&text_color=8ab4d4&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gijendra&layout=compact&hide_border=true&bg_color=020818&title_color=00d4ff&text_color=8ab4d4"/>
+**[ FRONTEND ]**
+
+![React](https://img.shields.io/badge/React-0d1f3c?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-080b12?style=for-the-badge&logo=three.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1635?style=for-the-badge&logo=typescript&logoColor=4a9eff)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d2233?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+
+**[ AI / RESEARCH ]**
+
+![Python](https://img.shields.io/badge/Python-0d1a2e?style=for-the-badge&logo=python&logoColor=a78bfa)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a0d0a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![NumPy](https://img.shields.io/badge/NumPy-0a1020?style=for-the-badge&logo=numpy&logoColor=6ee7b7)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1000?style=for-the-badge&logo=jupyter&logoColor=fcd34d)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1200?style=for-the-badge&logo=huggingface&logoColor=ffd21e)
+
+**[ TOOLS ]**
+
+![Git](https://img.shields.io/badge/Git-1a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Figma](https://img.shields.io/badge/Figma-0d0d1a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-0a1a2e?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 </div>
 
+---
+
+### `// METRICS`
+
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gijendra&hide_border=true&background=020818&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&sideLabels=8ab4d4&dates=3a5a7a&stroke=0d2244&currStreakNum=ffffff&sideNums=ffffff"/>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gijendra&show_icons=true&hide_border=true&bg_color=080b12&title_color=4a9eff&icon_color=a78bfa&text_color=7ab3e0&ring_color=4a9eff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gijendra&layout=compact&hide_border=true&bg_color=080b12&title_color=4a9eff&text_color=7ab3e0" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gijendra&bg_color=020818&color=00d4ff&line=0d2244&point=a855f7&area=true&area_color=051030&hide_border=true&custom_title=◈%20COMMIT%20ACTIVITY%20◈"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gijendra&theme=dark&hide_border=true&background=080b12&ring=4a9eff&fire=a78bfa&currStreakLabel=4a9eff&sideLabels=7ab3e0&dates=4a6a8a&stroke=1e3a5f" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gijendra&bg_color=080b12&color=4a9eff&line=1e3a5f&point=a78bfa&area=true&area_color=0d2244&hide_border=true" />
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-### ◈ `CONNECT // OPEN_CHANNELS`
-
-<br>
+### `// CONNECT.NODES`
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/◈_GMAIL-gijendra.gj%40gmail.com-00d4ff?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=020818&color=020818)](mailto:gijendra.gj@gmail.com)
+[![Gmail](https://img.shields.io/badge/──_SIGNAL-gijendra.gj@gmail.com-4a9eff?style=flat-square&labelColor=080b12&logo=gmail&logoColor=4a9eff)](mailto:gijendra.gj@gmail.com)
 
-<br><br>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00d4ff?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=020818&color=020818)](https://linkedin.com/in/gijendra)
-&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/TWITTER%2FX-FOLLOW-a855f7?style=for-the-badge&logo=x&logoColor=a855f7&labelColor=0d0520&color=0d0520)](https://twitter.com/gijendra)
-&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-DEPLOY-39ff14?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=001a00&color=001a00)](https://gijendra.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&labelColor=0d1f3c&logo=linkedin&logoColor=4a9eff)](https://linkedin.com/in/gijendra)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter%2FX-FOLLOW-1DA1F2?style=for-the-badge&labelColor=080b12&logo=x&logoColor=white)](https://twitter.com/gijendra)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-VISIT-39d98a?style=for-the-badge&labelColor=0a2018&logo=vercel&logoColor=39d98a)](https://gijendra.dev)
 
 </div>
 
-<br>
-
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<br>
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gijendra&style=flat-square&color=4a9eff&labelColor=080b12&label=PROFILE_VIEWS" />
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   > "the best interfaces feel like they                      │
-│      think alongside you."                                   │
-│                                                              │
-│   > still building...  █                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════╗
+║  "the best interfaces feel like they think       ║
+║   alongside you."          — still building...   ║
+╚══════════════════════════════════════════════════╝
 ```
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=gijendra&style=flat-square&color=00d4ff&labelColor=020818&label=◉%20PROFILE_SCANS)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:020818,100:000000&height=120&section=footer&text=◦%20END%20OF%20TRANSMISSION%20◦&fontSize=14&fontColor=00d4ff&fontAlignY=65&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a8a,50:0d2244,100:080b12&height=100&section=footer" />
 
 </div>
